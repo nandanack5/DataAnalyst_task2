@@ -52,7 +52,7 @@ Displays the total sales value in a KPI card.
 
 (Add your dashboard screenshot below.)
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboardstore.png)
 
 ---
 
